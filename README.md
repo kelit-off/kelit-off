@@ -8,11 +8,23 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="25" />](#tech_tools_anchor)
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" />](tech_tools_anchor)
+&nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=8A2BE2" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap logo" title="Bootstrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="TailwindCSS" height="25" />](#tech_tools_anchor)
+&nbsp;
+[<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" title="Laravel" height="25" />](#tech_tools_anchor)
+&nbsp;
+[<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" title="React" height="25" />](#tech_tools_anchor)
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" title="Next.js" height="25" />](#tech_tools_anchor)
 
 [tech_tools_anchor]: #bonjour--
 <!--
