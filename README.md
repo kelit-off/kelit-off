@@ -25,6 +25,8 @@
 [<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" title="React" height="25" />](#tech_tools_anchor)
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" title="Next.js" height="25" />](#tech_tools_anchor)
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-000000?logo=nest.js&logoColor=white" alt="Next.js" title="Next.js" height="25" />](#tech_tools_anchor)
 
 [tech_tools_anchor]: #bonjour--
 <!--
